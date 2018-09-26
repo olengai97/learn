@@ -1,2 +1,1 @@
-This is written by Olengai Emmanuel Laizer.
-This is written by Jeremia Emmanuel Laizer.
+Just a simple README
